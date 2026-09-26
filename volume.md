@@ -1,5 +1,3 @@
-# Volume.md
-
 # Prepare Disk Space for Linux Mint
 
 This guide covers shrinking the Windows 11 partition to create unallocated space for Linux Mint.

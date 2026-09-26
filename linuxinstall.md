@@ -1,5 +1,3 @@
-# Linuxinstall.md
-
 # Install Linux Mint
 
 This guide covers installing Linux Mint alongside an existing Windows 11 installation using the previously prepared unallocated disk space.

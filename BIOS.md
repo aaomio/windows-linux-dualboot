@@ -1,5 +1,3 @@
-# BIOS.md
-
 # Configure BIOS/UEFI
 
 Before starting the Linux Mint installation, verify that the system is configured to boot using **UEFI**.
